@@ -100,7 +100,7 @@ By using these insights, the company can optimize marketing strategies, improve 
 
 **Bishal Budha**
 
-Aspiring **Data Analyst & Cybersecurity Professional**
+Aspiring **Data Analyst**
 
 Skills demonstrated in this project:
 
